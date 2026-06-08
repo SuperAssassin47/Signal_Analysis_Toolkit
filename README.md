@@ -8,3 +8,7 @@ v1.0.0 brings you the ability to passively listen for signals both on Earth and 
 # Future optimisations
 
 In future updates, I will aim to introduce more signal analysis engines to enhance the overall UX.
+
+# Keyboard shortcuts to note
+
+For your reference, to terminate the signal analysis engine which you're using, hit Ctrl+C. This will terminate the engine and redirect you back to the main menu. This is the only form of interaction you need to know in order to use the toolkit efficently and effectively.
